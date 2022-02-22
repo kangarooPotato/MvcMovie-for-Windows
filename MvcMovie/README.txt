@@ -11,3 +11,6 @@ Finished 'Add a controller' part.
 
 11:23
 Finished 'Add a view' part.
+
+11:35
+Installed NuGet packages 5.0.9
