@@ -14,3 +14,12 @@ Finished 'Add a view' part.
 
 11:35
 Installed NuGet packages 5.0.9
+
+- Feb/23/2022
+
+9:47
+The problem was Nuget packages 5.0.9
+I changed it to newest ver. 5.0.13 .. and it works! :)
+
+09:58
+Finished 'Add a model' part.
