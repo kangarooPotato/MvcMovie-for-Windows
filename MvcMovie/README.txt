@@ -14,3 +14,10 @@ Finished 'Add a view' part.
 
 11:35
 Installed NuGet packages 5.0.9
+
+
+- Feb/23/2022
+
+14:39
+Changed ver of NuGet packages to 5.0.12
+and it works.. somehow....
