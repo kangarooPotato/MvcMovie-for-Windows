@@ -44,4 +44,14 @@ Finished Add search part.
 it works very well. cool function!
 
 
+23:04
+add a rating property to the Movie Model and Build the app.
+(don't forget the commend! it is Ctrl+Shift+B)
 
+23:23
+I didn't know why the rating wasn't displayed.
+and i found the solution! if we erase all the data, the rating will be added when the form that we made comes up again..!!! awsome!!!
+Add a new field done
+
+It's fun to make codes, find problems, and build them again really!!! haha
+:)
