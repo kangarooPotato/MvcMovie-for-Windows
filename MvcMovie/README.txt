@@ -55,3 +55,7 @@ Add a new field done
 
 It's fun to make codes, find problems, and build them again really!!! haha
 :)
+
+- Feb/25/2022
+
+Add validation is done. so far so good!
